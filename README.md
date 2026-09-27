@@ -245,5 +245,4 @@ When you have finished, compare your implementation with the example code in `co
 <!-- [**Completed Code**](https://github.com/Autonomous-Motorsports-Purdue/AMP_Software_Onboarding/blob/main/onboarding_runner.py) -->
 
   
-#   a m p _ s o f t w a r e _ o n b o a r d i n g  
- 
+#
